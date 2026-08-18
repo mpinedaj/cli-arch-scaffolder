@@ -1,6 +1,6 @@
 # Clean Architecture CLI Generator
 
-A lightweight command-line interface tool built in **Java** to instantly scaffold backend project structures following **Clean Architecture** principles. 
+A lightweight command-line interface tool built in Java to instantly scaffold backend project structures following Clean Architecture principles. 
 
 This tool eliminates the repetitive task of creating directory trees and base files, allowing developers to focus strictly on domain logic and use cases from minute one.
 
@@ -45,3 +45,4 @@ graph TD
     class MOD,REPO,UC domain;
     class DTO app;
     class API,JPA infra;
+
